@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      关于近期更新的一些想法
+subtitle:   近期内容
+date:       2017-11-21
+author:     Lzx
+header-img: img/post-bg-re-vs-ng2.jpg
+catalog: true
+tags:
+    - Blog
+---
+
+
+# 目前的想法
+  >   * 1.更新我学习过程中的一些总结
+  >   * 2.更新一些遇到的坑
+  >   * 3.更新一些游戏的教程
+  >   * 4.记录下自己的想法，自己的作品
+
+# 最近打算
+  - 数据结构与算法（PS：笔试老是考，不搞不行）
+  - Unity GameFrame(PS:本来的想法就是来记录自己做的基于的GameFrameWork，请原谅我造轮子）
+  - 把博客样式刷新一遍，换成游戏版
+  - 更新下Unity 2017.2出的Tile Map使用（PS：作为尝鲜系列）
