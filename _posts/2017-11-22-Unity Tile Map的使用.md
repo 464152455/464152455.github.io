@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      关于更新的一些想法
-subtitle:   近期想法
-date:       2017-11-22
-author:     Lzx
+layout:     post
+title:      快速搭建个人博客
+subtitle:   手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)
+date:       2017-02-06
+author:     BY
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
