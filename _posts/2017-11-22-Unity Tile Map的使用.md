@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:  Unity2017 Tile Map
+title:      Unity2017 Tile Map
 subtitle:  TileMap
 date:       2017-11-22
 author:     Lzx
